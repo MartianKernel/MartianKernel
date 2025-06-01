@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ...
 {
-  "firsName":"Martian",
+  "firstName":"Martian",
   "lastName":"Kernel",
-  "age:27"
+  "age":"27"
 }
 ...
 
