@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+|Syntax|Description|
+|--------|--------|
+|Header|Title|
+|Paragraph|Text|
+
+...
+{
+  "firsName":"Martian",
+  "lastName":"Kernel",
+  "age:27"
+}
+...
+
+- [x] GitHub Tutorial
+- [x] Update Profile
+- [ ] GitHub Skills/Introduction
+- [ ] Lesson 1
